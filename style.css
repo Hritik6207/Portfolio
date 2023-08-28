@@ -1,0 +1,191 @@
+* {
+  margin: 0;
+  padding: 0px;
+}
+.sidebar {
+  background: #1d267d;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  height: 100vh;
+  color: rgb(0, 0, 0);
+  transition-property: transform;
+  transition-duration: 0.3s;
+  transition-timing-function: ease-in-out;
+}
+.remsidebar {
+  transform: translate(-486px, 0);
+  position: absolute;
+}
+nav {
+  padding: 30px;
+}
+nav ul li {
+  list-style: none;
+  font-size: 18px;
+  padding: 20px 0 20px 0;
+}
+nav ul li a {
+  text-decoration: none;
+  color: aliceblue;
+}
+.main {
+  width: 100vw;
+  height: 100vh;
+  padding: 20px;
+  background: linear-gradient(125deg, #d4adfc, #1d267d);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow-x: hidden;
+}
+.info{
+  background-color: rgb(183, 209, 155);
+  height: 45vh;
+  width: 80vw;
+  margin: 144px auto;
+  display: flex;
+  justify-content: space-around;
+}
+.devimg img{
+  width: auto;
+  height: 45vh;
+}
+.devinfo{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  font-size: 18px;
+}
+.hello{
+  font-weight: 400;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 1.2em;
+}
+.name{
+  font-weight: bolder;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 1.6em;
+}
+.about{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: 500;
+  font-size: 1.5em;
+}
+.moreabout{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 300;
+  font-size: 1em;
+  margin-top: 10px;
+}
+.button {
+  padding: 15px 32px;
+  text-decoration: none;
+  font-size: 1em;
+  background-color: #1d267d;
+  border-radius: 10px;
+  border-color: #d4adfc;
+  display: inline-block;
+  text-align: center;
+  width: 18vw;
+  height: 13vh;
+  color: white;
+  transition: all 0.5s;
+  cursor: pointer;
+  box-shadow: 5px 4px 5px 4px  #442c5b;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  display:flex ;
+  justify-content: center;
+  align-items: center;
+}
+.button:active {
+  background-color: #442c5b;
+  box-shadow: 0 5px #4e1717;
+  transform: translateY(4px);
+}
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button span:after {
+  content: "\00bb";
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+.button:hover span {
+  padding-right: 25px;
+}
+.button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+.button1 {
+  padding: 15px 32px;
+  text-decoration: none;
+  font-size: 1em;
+  background-color: #1d267d;
+  border-radius: 10px;
+  border-color: #d4adfc;
+  display: inline-block;
+  text-align: center;
+  width: 18vw;
+  height: 13vh;
+  color: white;
+  transition: all 0.5s;
+  cursor: pointer;
+  box-shadow: 5px 4px 5px 4px #442c5b;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  margin-left: 22px;
+  display:flex ;
+  justify-content: center;
+  align-items: center;
+}
+.button1:active {
+  background-color: #442c5b;
+  box-shadow: 0 5px #4e1717;
+  transform: translateY(4px);
+}
+.button1 span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button1 span:after {
+  content: "\00bb";
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+.button1:hover span {
+  padding-right: 25px;
+}
+.button1:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+.btn{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 45px;
+}
+.container{
+    display: flex;
+}
+.hamberger {
+  position: absolute;
+  cursor: pointer;
+  top: 10px;
+  left: 10px;
+}
+.close {
+  margin-left: 80px;
+}

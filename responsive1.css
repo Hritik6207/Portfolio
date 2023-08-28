@@ -1,0 +1,198 @@
+@media (max-width: 1025px) {
+  .sidebar {
+    position: absolute;
+  }
+  .devinfo {
+    font-size: 14px;
+  }
+  .info {
+    height: 25vh;
+  }
+  .hello,
+  .name,
+  .about {
+    justify-content: center;
+    margin: auto;
+    display: flex;
+    font-size: 2em;
+  }
+  .moreabout {
+    justify-content: center;
+    margin: auto;
+    display: flex;
+  }
+  nav ul li {
+    font-size: 12px;
+  }
+  .close {
+    margin-left: 62px;
+  }
+  .button,
+  .button1 {
+    font-size: 0.8em;
+    width: 14vw;
+    height: 6vh;
+  }
+}
+@media (max-width: 913px) {
+  .sidebar {
+    position: absolute;
+  }
+  .devinfo {
+    font-size: 14px;
+  }
+  .info {
+    height: 25vh;
+  }
+  .hello,
+  .name,
+  .about,
+  .moreabout {
+    justify-content: center;
+    margin: auto;
+    display: flex;
+  }
+  nav ul li {
+    font-size: 12px;
+  }
+  .close {
+    margin-left: 62px;
+  }
+  .button,
+  .button1 {
+    font-size: 0.8em;
+    width: 12vw;
+    height: 6vh;
+  }
+}
+@media (max-width: 750px) {
+  .sidebar {
+    position: absolute;
+  }
+  .devinfo {
+    font-size: 12px;
+  }
+  .info {
+    height: 25vh;
+  }
+  .hello,
+  .name,
+  .about,
+  .moreabout {
+    justify-content: center;
+    margin: auto;
+    display: flex;
+  }
+  nav ul li {
+    font-size: 12px;
+  }
+  .close {
+    margin-left: 62px;
+  }
+  .button,
+  .button1 {
+    font-size: 0.65em;
+    width: 14vw;
+    height: 7vh;
+  }
+}
+@media (max-width: 555px) {
+  .sidebar {
+    position: absolute;
+  }
+  .devinfo {
+    font-size: 12px;
+  }
+  .info {
+    height: 25vh;
+  }
+  .hello {
+    justify-content: center;
+    margin: auto;
+    align-items: center;
+    display: flex;
+    font-size: 1.1em;
+  }
+  .name {
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    display: flex;
+    font-size: 0.9em;
+  }
+  .about {
+    justify-content: center;
+    margin: auto;
+    display: flex;
+    font-size: 0.8em;
+  }
+  .moreabout {
+    justify-content: center;
+    margin: auto;
+    display: flex;
+    font-size: 0.6em;
+  }
+  nav ul li {
+    font-size: 12px;
+  }
+  .close {
+    margin-left: 62px;
+  }
+  .btn {
+    font-size: 0.8em;
+  }
+  .button,
+  .button1 {
+    width: 12vw;
+    height: 6vh;
+  }
+}
+@media (max-width: 380px) {
+    .sidebar {
+      position: absolute;
+    }
+    .devinfo {
+      font-size: 12px;
+    }
+    .info {
+      height: 25vh;
+    }
+    .hello {
+      justify-content: center;
+      margin: auto;
+      display: flex;
+      font-size: 1.1em;
+    }
+    .name {
+      justify-content: center;
+      margin: auto;
+      display: flex;
+      font-size: 0.9em;
+    }
+    .about {
+      justify-content: center;
+      margin: auto;
+      display: flex;
+      font-size: 0.8em;
+    }
+    .moreabout {
+      justify-content: center;
+      margin: auto;
+      display: flex;
+      font-size: 0.7em;
+    }
+    nav ul li {
+      font-size: 12px;
+    }
+    .close {
+      margin-left: 62px;
+    }
+    .btn {
+      font-size: 0.8em;
+    }
+    .button,
+    .button1 {
+      width: 12vw;
+      height: 6vh;
+    }
+  }

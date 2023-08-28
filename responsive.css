@@ -1,0 +1,512 @@
+@media (max-width: 1155px) {
+    #imag{
+        width: 50%;
+    }
+    .contact{
+        font-size: 1.5em;
+    }
+    .whole p{
+        font-size: 1em;
+    }
+    .main{
+        height: 400vh;
+    }
+}
+@media (max-width: 898px) {
+
+    .devimg{
+        float: left;
+    }
+    .devimg img{
+        height: 25vh;
+    }
+    .sidebar{
+        position: absolute;
+    }
+    .devinfo{
+        font-size: 14px;
+    }
+    .info{
+        height: 25vh;
+    }
+    .hello,.name,.about,.moreabout{
+        justify-content: center;
+        margin: auto;
+        display: flex;
+    }
+    nav ul li{
+        font-size: 10px;
+    }
+    .close{
+        margin-left: 62px;
+    }
+    .content{
+        height: 45vh;
+    }
+    .myprojects{
+        height: 50vh;
+    }
+    .listskills{
+        font-size: 2em;
+    }
+    .experience{
+        font-size: 2em;
+    }
+    .content{
+        height: 50vh;
+    }
+    .profile{
+        height: 50vh;
+    }
+    #imag{
+        width: 40%;
+    }
+    .contact{
+        font-size: 1em;
+    }
+    .whole p{
+        font-size: 0.8em;
+    }
+    .main{
+        height: 345vh;
+    }
+}
+@media (max-width: 735px) {
+
+    .devimg{
+        float: left;
+    }
+    .devimg img{
+        height: 25vh;
+    }
+    .sidebar{
+        position: absolute;
+    }
+    .devinfo{
+        font-size: 14px;
+    }
+    .info{
+        height: 25vh;
+    }
+    .hello,.name,.about,.moreabout{
+        justify-content: center;
+        margin: auto;
+        display: flex;
+    }
+    nav ul li{
+        font-size: 10px;
+    }
+    .close{
+        margin-left: 62px;
+    }
+    .content{
+        height: 45vh;
+    }
+    .myprojects{
+        height: 50vh;
+    }
+    .listskills{
+        font-size: 2em;
+    }
+    .experience{
+        font-size: 2em;
+    }
+    .content{
+        height: 40vh;
+    }
+    .profile{
+        height: 40vh;
+    }
+    .myworks{
+        height: 55vh;
+    }
+    .skills{
+        height: 55vh;
+    }
+    #imag{
+        width: 40%;
+    }
+    .contact{
+        font-size: 0.8em;
+    }
+    .whole p{
+        font-size: 0.7em;
+    }
+    .button2{
+        width: 7vw;
+        height: 3vh;
+        font-size: 0.5em;
+    }
+    .main{
+        height: 320vh;
+    }
+}
+@media (max-width: 477px) {
+
+    .devimg{
+        float: left;
+    }
+    .devimg img{
+        height: 25vh;
+    }
+    .sidebar{
+        position: absolute;
+    }
+    .devinfo{
+        font-size: 14px;
+    }
+    .info{
+        height: 25vh;
+    }
+    .hello,.name,.about,.moreabout{
+        justify-content: center;
+        margin: auto;
+        display: flex;
+    }
+    nav ul li{
+        font-size: 10px;
+    }
+    .content{
+        height: 50vh;
+    }
+    .profile{
+        height: 50vh;
+    }
+    .myprojects{
+        height: 30vh;
+    }
+    .images{
+        font-size: 2em;
+        font-weight: 400;
+    }
+    .close{
+        margin-left: 62px;
+    }
+    .listskills{
+        font-size: 1em;
+    }
+    .experience{
+        font-size: 1em;
+    }
+    .e1,.s1{
+        font-size: 0.8em;
+    }
+    #imag{
+        width: 40%;
+    }
+    .contact{
+        font-size: 0.7em;
+    }
+    .whole p{
+        font-size: 0.5em;
+    }
+    .button2{
+        width: 5vw;
+        height: 2vh;
+        font-size: 0.4em;
+    }
+    .main{
+        height: 300vh;
+    }
+    footer{
+        height: 2.5vh;
+    }
+    footer p{
+        font-size: 0.7em;
+    }
+    .imageall img{
+        width: 2vw;
+        height: 2vh;
+        padding: 1px;
+        margin: auto;
+    }
+}
+@media (max-width: 428px) {
+
+    .devimg{
+        float: left;
+    }
+    .devimg img{
+        height: 25vh;
+    }
+    .sidebar{
+        position: absolute;
+    }
+    .devinfo{
+        font-size: 14px;
+    }
+    .info{
+        height: 25vh;
+    }
+    .hello,.name,.about,.moreabout{
+        justify-content: center;
+        margin: auto;
+        display: flex;
+    }
+    nav ul li{
+        font-size: 10px;
+    }
+    .content{
+        height: 35vh;
+        font-size: 0.8em;
+    }
+    .myprojects{
+        height: 30vh;
+    }
+    .images{
+        font-size: 2em;
+        font-weight: 400;
+    }
+    .close{
+        margin-left: 62px;
+    }
+    .profile{
+        height: 35vh;
+        font-size: 0.8em;
+    }
+    .myworks{
+        font-size: 0.8em;
+    }
+    .s1,.e1{
+        font-size: 0.6em;
+    }
+    .skills{
+        height: 40vh;
+    }
+    .cc{
+        height: 40vh;
+    }
+    #imag{
+        width: 40%;
+    }
+    .contact{
+        font-size: 0.7em;
+    }
+    .whole p{
+        font-size: 0.5em;
+    }
+    .button2{
+        width: 5vw;
+        height: 1vh;
+        font-size: 0.4em;
+    }
+    footer{
+        height: 2.5vh;
+    }
+    footer p{
+        font-size: 0.7em;
+    }
+    .imageall img{
+        width: 2vw;
+        height: 2vh;
+        padding: 1px;
+        margin: auto;
+    }
+    .main{
+        height: 300vh;
+    }
+}
+@media (max-width: 428px) {
+
+    .devimg{
+        float: left;
+    }
+    .devimg img{
+        height: 25vh;
+    }
+    .sidebar{
+        position: absolute;
+    }
+    .devinfo{
+        font-size: 14px;
+    }
+    .info{
+        height: 25vh;
+    }
+    .hello,.name,.about,.moreabout{
+        justify-content: center;
+        margin: auto;
+        display: flex;
+    }
+    nav ul li{
+        font-size: 10px;
+    }
+    .content{
+        height: 40vh;
+        font-size: 0.8em;
+    }
+    .myprojects{
+        height: 30vh;
+    }
+    .images{
+        font-size: 2em;
+        font-weight: 400;
+    }
+    .close{
+        margin-left: 62px;
+    }
+    .profile{
+        height: 40vh;
+        font-size: 0.8em;
+    }
+    .myworks{
+        font-size: 0.8em;
+        height: 50vh;
+    }
+    .s1,.e1{
+        font-size: 0.6em;
+    }
+    .skills{
+        height: 60vh;
+    }
+    .cc{
+        height: 60vh;
+    }
+    #imag{
+        width: 40%;
+    }
+    .contact{
+        font-size: 0.7em;
+    }
+    .whole p{
+        font-size: 0.5em;
+    }
+    .button2{
+        width: 5vw;
+        height: 1vh;
+        font-size: 0.4em;
+    }
+}
+@media (max-width: 391px) {
+
+    .devimg{
+        display: none;
+    }
+    .main{
+        height: 300vh
+    }
+    .sidebar{
+        position: absolute;
+    }
+    .devinfo{
+        font-size: 14px;
+    }
+    .info{
+        height: 25vh;
+    }
+    .hello,.name,.about,.moreabout{
+        justify-content: center;
+        margin: auto;
+        display: flex;
+    }
+    nav ul li{
+        font-size: 10px;
+    }
+    .content{
+        height: 50vh;
+        font-size: 0.8em;
+        margin-left: 0;
+    }
+    .images{
+        font-size: 2em;
+        font-weight: 400;
+    }
+    .close{
+        margin-left: 62px;
+    }
+    .profile{
+        height: 50vh;
+    }
+    .myworks{
+        height: 60vh;
+    }
+    .cc{
+        height: 55vh;
+    }
+    .skills{
+        height: 55vh;
+    }
+    .profile{
+        font-size: 0.8em;
+    }
+    #imag{
+        width: 40%;
+    }
+    .contact{
+        font-size: 0.6em;
+    }
+    .whole p{
+        font-size: 0.5em;
+    }
+    .button2{
+        width: 5vw;
+        height: 1vh;
+        font-size: 0.4em;
+    }
+}
+@media (max-width: 325px) {
+
+    .devimg{
+        display: none;
+    }
+    .main{
+        height: 300vh;
+        overflow-x: hidden;
+    }
+    .sidebar{
+        position: absolute;
+    }
+    .devinfo{
+        font-size: 12px;
+    }
+    .info{
+        height: 25vh;
+    }
+    .hello,.name,.about,.moreabout{
+        justify-content: center;
+        margin: auto;
+        display: flex;
+    }
+    nav ul li{
+        font-size: 14px;
+    }
+    .content,.profile{
+        height: 70vh;
+        font-size: 0.8em;
+        margin-left: 0;
+        width: 80vw;
+    }
+    .images{
+        font-size: 2em;
+        font-weight: 400;
+    }
+    .close{
+        margin-left: 62px;
+    }
+    .myworks{
+        height: 60vh;
+    }
+    .cc{
+        height: 60vh;
+    }
+    .skills{
+        height: 60vh;
+    }
+    .e1,.s1{
+        font-size: 0.5em;
+    }
+    #imag{
+        width: 40%;
+    }
+    .contact{
+        font-size: 0.7em;
+    }
+    .whole p{
+        font-size: 0.5em;
+    }
+    .button2{
+        width: 5vw;
+        height: 1vh;
+        font-size: 0.4em;
+    }
+}
