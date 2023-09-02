@@ -1,0 +1,315 @@
+@media (max-width: 1170px) {
+    .sidebar {
+      position: absolute;
+    }
+    nav ul li {
+      font-size: 12px;
+    }
+    .close {
+      margin-left: 62px;
+    }
+    .devimage img{
+      width: 40vw;
+      height: 40vh;
+    }
+
+  }
+  @media (max-width: 1000px) {
+    .sidebar {
+      position: absolute;
+    }
+    nav ul li {
+      font-size: 12px;
+    }
+    .close {
+      margin-left: 62px;
+    }
+    .devimage img{
+      height: 50vh;
+      width: 40vw;
+    }
+  .profile{
+    height: 30vh;
+  }
+  .content{
+    height: 30vh;
+  }
+  .text1,.text2,.text3,.text4,.mail,.add{
+    font-size: 0.8em;
+  }
+  .button{
+    width: 10vw;
+  }
+  input{
+    height: 0vh;
+  }
+}
+  @media (max-width: 875px) {
+    .sidebar {
+      position: absolute;
+    }
+    nav ul li {
+      font-size: 12px;
+    }
+    .close {
+      margin-left: 62px;
+    }
+    .devimage img{
+      height: 40vh;
+      width: 40vw;
+    }
+    .profile{
+      height: 30vh;
+      width: 45%;
+    }
+    .content{
+      height: 30vh;
+      width: 45%;
+    }
+    .text1,.text2,.text3,.text4,.mail,.add{
+      font-size: 0.7em;
+    }
+    .profile img{
+      width: 12px;
+    }
+    .content img{
+      width: 12px;
+    }
+    .button{
+      width: 10vw;
+    }
+    input{
+      height: 0vh;
+    }
+  }
+  @media (max-width: 705px) {
+    .sidebar {
+      position: absolute;
+    }
+    nav ul li {
+      font-size: 12px;
+    }
+    .close {
+      margin-left: 62px;
+    }
+    .devimage img{
+      height: 40vh;
+      width: 40vw;
+    }
+    .profile{
+      height: 30vh;
+      width: 25vw;
+    }
+    .content{
+      height: 30vh;
+      width: 25vw;
+    }
+    .text1,.text2,.text3,.text4,.mail,.add{
+      font-size: 0.6em;
+    }
+    .profile img{
+      width: 12px;
+    }
+    .content img{
+      width: 12px;
+    }
+    .button{
+      width: 10vw;
+      padding: 2px;
+    }
+    form input{
+      height: 0vh;
+      font-size: 0.7em;
+    }
+  }
+  @media (max-width: 575px) {
+    .sidebar {
+      position: absolute;
+    }
+    nav ul li {
+      font-size: 12px;
+    }
+    .close {
+      margin-left: 62px;
+    }
+    .devimage img{
+      height: 30vh;
+      width: 30vw;
+    }
+    .profile{
+      height: 30vh;
+      width: 30vw;
+    }
+    .content{
+      height: 30vh;
+      width: 30vw;
+    }
+    .button{
+      width: 14vw;
+      height: 5vh;
+      padding: 2px;
+    }
+    .text1,.text2,.text3,.text4,.mail,.add{
+      font-size: 0.5em;
+    }
+    .profile img{
+      width: 12px;
+    }
+    .content img{
+      width: 12px;
+    }
+    form input{
+      height: 0vh;
+      font-size: 0.7em;
+    }
+  }
+  @media (max-width: 452px) {
+    .sidebar {
+      position: absolute;
+    }
+    nav ul li {
+      font-size: 12px;
+    }
+    .close {
+      margin-left: 62px;
+    }
+    .devimage img{
+      height: 16vh;
+    width: 20vw;
+    }
+    .profile{
+      height: 25vh;
+      width: 35vw;
+    }
+    .content{
+      height: 25vh;
+      width: 35vw;
+    }
+    .text1,.text2,.text3,.text4,.mail,.add{
+      font-size: 0.44em;
+    }
+    .profile img{
+      width: 12px;
+    }
+    form input{
+      height: 0vh;
+      font-size: 0.7em;
+    }
+    .content img{
+      width: 12px;
+    }
+    .button{
+      width: 14vw;
+      height: 5vh;
+      padding: 2px;
+    }
+    .profile p{
+      font-size: 0.8em;
+    }
+    .content p{
+      font-size: 0.8em;
+  }
+}
+@media (max-width: 385px) {
+  .sidebar {
+    position: absolute;
+  }
+  nav ul li {
+    font-size: 12px;
+  }
+  .close {
+    margin-left: 62px;
+  }
+  .devimage img{
+    height: 20vh;
+    width: 25vw;
+  }
+  form input{
+    height: 0vh;
+    font-size: 0.6em;
+  }
+  .profile{
+    height: 25vh;
+    width: 35vw;
+  }
+  .content{
+    height: 25vh;
+    width: 35vw;
+  }
+  .text1,.text2,.text3,.text4,.mail,.add{
+    font-size: 0.44em;
+  }
+  .profile img{
+    width: 8px;
+  }
+  .content img{
+    width: 8px;
+  }
+  .button{
+    width: 14vw;
+    height: 5vh;
+    padding: 2px;
+  }
+  .profile p{
+    font-size: 0.7em;
+  }
+  .content p{
+    font-size: 0.7em;
+}
+  .main{
+    height: 150vh;
+  }
+}
+@media (max-width: 325px) {
+  .sidebar {
+    position: absolute;
+  }
+  nav ul li {
+    font-size: 12px;
+  }
+  .main{
+    height: 150vh;
+  }
+  .close {
+    margin-left: 62px;
+  }
+  .devimage img{
+    height: 20vh;
+    width: 20vw;
+  }
+  .profile{
+    height: 30vh;
+    width: 35vw;
+  }
+  .content{
+    height: 30vh;
+    width: 35vw;
+  }
+  .text1,.text2,.text3,.text4,.mail,.add{
+    font-size: 0.3em;
+  }
+  .profile img{
+    width: 5px;
+  }
+  .content img{
+    width: 5px;
+  }
+  .profile p{
+    font-size: 0.6em;
+  }
+  .content p{
+    font-size: 0.6em;
+  }
+  form input{
+    height: 0vh;
+    font-size: 0.5em;
+  }
+  .box{
+    height: 50vh;
+  }
+  .button{
+    width: 17vw;
+    height: 5vh;
+    padding: 2px;
+  }
+}

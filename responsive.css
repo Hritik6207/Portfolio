@@ -252,6 +252,9 @@
     .main{
         height: 625vh;
     }
+    .myprojects{
+        font-size: 0.8em;
+    }
 }
 @media (max-width: 490px) {
 
@@ -316,6 +319,9 @@
     .main{
         height: 625vh;
     }
+    .myprojects{
+        font-size: 0.7em;
+    }
 }
 @media (max-width: 420px) {
 
@@ -378,7 +384,7 @@
         font-size: 0.8em;
     }
     .main{
-        height: 625vh;
+        height: 630vh;
     }
     footer p{
         font-size: 1em;
@@ -388,6 +394,12 @@
     }
     .skills,.e1{
         font-size: 0.8em;
+    }
+    .myprojects{
+        font-size: 0.6em;
+    }
+    .work{
+        font-size: 0.6em;
     }
 }
 @media (max-width: 325px) {
@@ -450,13 +462,20 @@
         font-size: 0.6em;
     }
     .main{
-        height: 625vh;
+        height: 632vh;
+    }
+    .work{
+        font-size: 0.6em;
+        height: 100vh;
     }
     footer p{
         font-size: 1em;
     }
     .imageall img{
         width:3vw;
+    }
+    .myprojects{
+        font-size: 0.5em;
     }
     .skills,.e1{
         font-size: 0.6em;

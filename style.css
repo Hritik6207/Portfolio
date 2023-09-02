@@ -2,6 +2,9 @@
   margin: 0;
   padding: 0px;
 }
+html{
+  scroll-behavior: smooth;
+}
 .sidebar {
   background: #1d267d;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
@@ -60,7 +63,7 @@ nav ul li a {
   font-weight: 600;
   font-family: 'Courier New', Courier, monospace;
   font-size: 1.3em;
-  color: #090580;
+  color: #000000;
 }
 .name{
   font-weight: bolder;
