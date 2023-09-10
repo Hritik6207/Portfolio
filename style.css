@@ -35,7 +35,7 @@ nav ul li a {
   height: 100vh;
   padding: 20px;
   /* background: linear-gradient(125deg, #d4adfc, #1d267d); */
-  background-image: url(img/bg.jpg);
+  background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.1),rgba(0,0,0,0.6)), url(img/bg.jpg);
   display: flex;
   justify-content: center;
   align-items: center;
